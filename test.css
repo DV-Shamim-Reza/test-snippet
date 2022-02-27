@@ -1,0 +1,14 @@
+marquee {
+    color: #fff;
+    background-color: #f57575;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+marquee.marquee2 {
+    color: #fff;
+    background-color: #75f586;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+}
